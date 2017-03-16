@@ -1,5 +1,7 @@
 # karma-coverage [![Build Status](https://travis-ci.org/karma-runner/karma-coverage.svg?branch=master)](https://travis-ci.org/karma-runner/karma-coverage)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CoorpAcademy/karma-coverage.svg)](https://greenkeeper.io/)
+
 > Generate code coverage using [Istanbul].
 
 ## Installation
